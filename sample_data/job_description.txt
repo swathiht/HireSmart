@@ -1,0 +1,13 @@
+AI/ML Engineer (Working Student)
+About the role
+Join our applied AI team to build NLP and machine learning features for our hiring product.
+Requirements
+- Strong Python and SQL skills
+- Experience with machine learning and NLP (Scikit-learn, spaCy or Transformers)
+- Experience building REST APIs with FastAPI or Flask
+- Familiarity with Git and Docker
+- Good understanding of data structures and algorithms
+Nice to have
+- Experience with AWS or other cloud platforms
+- Knowledge of LLMs and RAG pipelines
+- Experience writing tests with pytest

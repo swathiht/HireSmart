@@ -1,0 +1,18 @@
+Meera Iyer
+meera.iyer.sample@example.com | +91-90000-00005 | linkedin.com/in/meera-sample
+Education
+Mock Institute of Technology Aug 2020 – May 2024
+Bachelor of Engineering in Computer Science CGPA: 8.2
+Skills
+Languages: Python, C++, SQL
+Backend: Flask, FastAPI, PostgreSQL, Docker, Linux, Git, CI/CD
+Cloud: AWS, Kubernetes
+AI/ML: Scikit-learn, NLP
+Experience
+Software Engineer, Mock Systems Pvt Ltd Jul 2024 – Present
+• Built REST APIs with FastAPI and PostgreSQL serving 20,000 daily requests.
+• Containerised 5 microservices with Docker and automated deployment with GitHub Actions.
+• Reduced average API response time by 40% through query optimisation and caching.
+Projects
+Resume Screening Service | Python, Scikit-learn, Flask 2024
+• Developed a screening service using TF-IDF similarity that ranked 500 resumes in under 10 seconds.

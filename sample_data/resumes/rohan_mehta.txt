@@ -1,0 +1,18 @@
+Rohan Mehta
+rohan.mehta.sample@example.com | +91-90000-00002 | github.com/rohan-sample
+Education
+Sample University Aug 2021 – Present
+Bachelor of Technology in Information Technology CGPA: 7.1
+Skills
+Languages: Java, JavaScript, HTML/CSS, SQL
+Web: React, Node.js, REST APIs, MongoDB
+Tools: Git, GitHub, Linux
+Projects
+Online Bookstore | React, Node.js, MongoDB 2025
+• Built a full-stack bookstore with product search, cart and JWT login.
+• Implemented REST APIs for 12 endpoints and connected them to a React front end.
+Library Management System | Java, MySQL 2024
+• Developed a desktop application with MySQL for issuing and returning books.
+• Worked on report generation and basic input validation.
+Achievements & Activities
+• Member of the college coding club.

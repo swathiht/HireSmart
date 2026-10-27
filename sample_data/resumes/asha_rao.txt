@@ -1,0 +1,25 @@
+Asha Rao
+asha.rao.sample@example.com | +91-90000-00001 | github.com/asha-sample
+Education
+Example Institute of Technology Sept 2022 – Present
+Bachelor of Engineering in Computer Science CGPA: 8.6
+Skills
+Languages: Python, SQL, Java
+AI/ML: Scikit-learn, TensorFlow, Keras, NLP, spaCy, Transformers, XGBoost
+Data: Pandas, NumPy, Matplotlib
+Tools: Git, GitHub, Docker, FastAPI, Streamlit
+Projects
+Customer Churn Prediction API | Python, XGBoost, FastAPI, Docker 2025
+• Built a churn classifier with XGBoost reaching 91.2% ROC-AUC on 50,000 customer records.
+• Exposed the model through a FastAPI endpoint and packaged it with Docker for reproducible deployment.
+• Reduced prediction latency by 35% by caching the preprocessing pipeline.
+News Topic Classifier | Python, spaCy, Scikit-learn 2024
+• Developed a text classifier using TF-IDF and logistic regression with 88% F1-score on 12,000 articles.
+• Compared TF-IDF baselines against transformer embeddings and documented the trade-offs.
+Experience
+Data Science Intern, Sample Analytics Pvt Ltd Jun 2025 – Aug 2025
+• Automated weekly reporting with Pandas and SQL, saving the team 6 hours per week.
+• Collaborated with 4 engineers to ship a model monitoring dashboard.
+Achievements & Activities
+• Winner, college hackathon 2025; led a team of 4 under a 24-hour deadline.
+• Volunteer coordinator for the annual tech fest, managing 30 volunteers.

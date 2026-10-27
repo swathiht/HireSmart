@@ -1,0 +1,23 @@
+Priya Nair
+priya.nair.sample@example.com | +91-90000-00003
+Education
+Demo College of Engineering Aug 2022 – Present
+Bachelor of Engineering in Artificial Intelligence CGPA: 9.0
+Skills
+Python, PyTorch, Machine Learning, Deep Learning, Computer Vision, NLP, Pandas, NumPy, Git, Docker, AWS, SQL, FastAPI, Scikit-learn
+Projects
+Plant Disease Detection | Python, PyTorch, Docker, AWS 2025
+• Trained a ResNet-based classifier with transfer learning achieving 94.5% accuracy on 20,000 leaf images.
+• Deployed the model as a FastAPI service in a Docker container on AWS.
+• Applied data augmentation that reduced overfitting and improved validation accuracy by 6%.
+Document Q&A Bot | Python, LLMs, RAG, FAISS 2025
+• Built a retrieval-augmented generation pipeline over 300 PDF pages using sentence embeddings and FAISS.
+• Evaluated retrieval with recall@5 of 0.82 on a hand-labelled question set.
+Experience
+Machine Learning Intern, Demo Labs Jan 2025 – Apr 2025
+• Fine-tuned a text classification model and improved F1-score from 0.71 to 0.79.
+• Wrote unit tests with pytest to cover data-processing code.
+Publications
+• "Lightweight CNN for Leaf Disease Detection," Demo Conference on AI, 2025.
+Achievements & Activities
+• Co-organised a national-level AI workshop with 200 attendees.
